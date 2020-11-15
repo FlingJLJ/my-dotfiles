@@ -25,3 +25,5 @@ shopt -s checkwinsize
 # Other
 export PATH=$PATH:~/Scripts
 export EDITOR="vim"
+export HISTSIZE=50
+export HISTFILESIZE=50
