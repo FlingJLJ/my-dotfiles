@@ -1,10 +1,3 @@
-# ----------------------------------------
-#
-# Fling's .bashrc
-# Feel free to use this if you want.
-#
-# ----------------------------------------
-
 [ -z "$PS1" ] && return # Exit if not running interactively
 
 # Prompts
