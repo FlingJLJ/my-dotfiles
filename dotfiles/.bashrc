@@ -1,8 +1,8 @@
 [ -z "$PS1" ] && return # Exit if not running interactively
 
 # Prompts
-export PS1="\e[0;92;1m\u\e[m:\e[0;94;1m\w\e[m $ "
-export PS2="$ "
+export PS1="\e[0;92;1m\w\e[m $ "
+export PS2="$> "
 
 # Aliases
 alias mv="mv -f"
