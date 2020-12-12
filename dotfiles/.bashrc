@@ -1,7 +1,7 @@
 [ -z "$PS1" ] && return # Exit if not running interactively
 
 # Prompts
-export PS1="\e[0;92;1m\w\e[m $ "
+export PS1="\[\e[0;92;1m\]\w\[\e[0m\] $ "
 export PS2="$> "
 
 # Aliases
